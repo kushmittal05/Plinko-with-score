@@ -1,2 +1,2 @@
-# Plinko-with-score
-A plinko game with a score
+# plinko-with-score
+plinko game with scores
